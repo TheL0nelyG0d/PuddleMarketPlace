@@ -1,9 +1,3 @@
-Puddle is a fledged out a market place where customers can sign up and shop for items!
+Puddle is a marketplace created with Django. You can create, update, delete and search for items. You can convers with seller. No payment method implemented. You can watch the video to learn how it looks.
 
-Back-end implementation fully coevered with Django!
-
-It is a fictional project! And Project is ongoing!
-
-To use the the code just clone it!
-
-Make sure you have pipenv ,django and pillow!
+This is a guided project. You can clone the project for usage.
